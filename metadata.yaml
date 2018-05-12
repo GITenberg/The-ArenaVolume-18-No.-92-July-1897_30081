@@ -17,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/370
     wikipedia: http://en.wikipedia.org/wiki/John_Clark_Ridpath
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/30081#The-ArenaVolume-18-No.-92-July-1897
 gutenberg_bookshelf: The Arena
 gutenberg_issued: '2009-09-25'
 gutenberg_type: Text
