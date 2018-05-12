@@ -1,0 +1,35 @@
+_repo: The-ArenaVolume-18-No.-92-July-1897_30081
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Various
+    alias: Verschillende
+    gutenberg_agent_id: '116'
+    url: http://www.gutenberg.org/2009/agents/116
+  editor:
+    agent_name: Ridpath, John Clark
+    birthdate: 1840
+    deathdate: 1900
+    gutenberg_agent_id: '370'
+    url: http://www.gutenberg.org/2009/agents/370
+    wikipedia: http://en.wikipedia.org/wiki/John_Clark_Ridpath
+description: ''
+gutenberg_bookshelf: The Arena
+gutenberg_issued: '2009-09-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30081'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'AP'
+- !lcsh 'American literature -- Periodicals'
+title: 'The Arena
+
+  Volume 18, No. 92, July, 1897'
+url: http://www.gutenberg.org/ebooks/30081
